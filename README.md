@@ -13,7 +13,7 @@ If you find any issues, please let me know: ```jung@m.scnu.edu.cn```.
 
 #### Datasets
 
-You can download the datasets from [Data4SADNG]([https://github.com/MGitHubL/Data4TGC](https://drive.google.com/file/d/1jXsTjk2OFN4y74Y_TZBHHsmPSCL0I5gA/view?usp=sharing)
+You can download the datasets from [Data4SADNG](https://drive.google.com/file/d/1jXsTjk2OFN4y74Y_TZBHHsmPSCL0I5gA/view?usp=sharing)
 
 
 #### Run
