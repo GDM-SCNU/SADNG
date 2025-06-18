@@ -44,6 +44,5 @@ If you feel our work has been helpful, thank you for the citation.
   biburl       = {https://dblp.org/rec/journals/eswa/ChengHLLHT25.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
-}
 ```
  
